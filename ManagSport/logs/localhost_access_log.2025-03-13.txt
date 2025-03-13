@@ -1,0 +1,4 @@
+0:0:0:0:0:0:0:1 - - [13/Mar/2025:11:39:27 +0100] "GET /ManagSport HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [13/Mar/2025:11:39:29 +0100] "GET /ManagSport/ HTTP/1.1" 200 2858
+0:0:0:0:0:0:0:1 - - [13/Mar/2025:11:39:29 +0100] "GET /ManagSport/css/style.css HTTP/1.1" 404 713
+0:0:0:0:0:0:0:1 - - [13/Mar/2025:11:39:30 +0100] "GET /images/gym-background.jpg HTTP/1.1" 404 604
